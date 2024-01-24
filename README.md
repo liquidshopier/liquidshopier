@@ -43,5 +43,6 @@ My primary objective is to help Shopify store owners achieve their goals by prov
  ✔️ Angular JS
  </br>
  </br>
+ 
  Email: liquidshopier@gmail.com
 </div>
