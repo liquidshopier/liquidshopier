@@ -1,0 +1,1 @@
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png>
