@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-## **Passionate and highly-skilled Shopify Developer with more than 6 years of experience.**
+## **Passionate and highly-skilled Shopify Developer with extensive experience in Shopify theme and app development.**
 
 <div>
 My primary objective is to help Shopify store owners achieve their goals by providing on-time high quality work.
